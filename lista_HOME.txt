@@ -7,15 +7,12 @@ d----- 13/02/2025 10:25:57          .conda
 d----- 13/02/2025 15:11:28          .config                                                                            
 d----- 13/02/2025 10:11:22          .continuum                                                                         
 d----- 08/10/2026 12:01:05          .copilot                                                                           
-d----- 25/03/2025 09:19:44          .ipynb_checkpoints                                                                 
+                                                              
 d----- 13/02/2025 13:16:49          .ipython                                                                           
 d----- 13/02/2025 12:29:22          .jupyter                                                                           
 d----- 11/07/2025 10:22:58          .keras                                                                             
 d----- 05/03/2026 16:32:59          .local                                                                             
-d----- 08/07/2026 15:41:20          .matplotlib                                                                        
-d----- 08/10/2026 12:17:02          .vscode                                                                            
-d----- 25/03/2026 16:28:17          .vscode-R                                                                          
-d----- 11/05/2026 16:14:47          .vscode-shared                                                                     
+d----- 08/07/2026 15:41:20          .matplotlib                                                                                                                                   
 d----- 29/04/2026 10:16:25          .wdm                                                                               
 d-r--- 13/02/2025 09:55:53          3D Objects                                                                         
 d--hsl 13/02/2025 09:55:51          Ambiente de Impressão                                                              
@@ -26,14 +23,11 @@ d-r--- 13/02/2025 09:55:53          Contacts
 d--hsl 13/02/2025 09:55:51          Cookies                                                                            
 d--hsl 13/02/2025 09:55:51          Dados de Aplicativos                                                               
 d-r--- 14/10/2026 09:24:16          Desktop                                                                            
-d-r--- 21/08/2026 17:02:02          Documents                                                                          
-d-r--- 13/10/2026 12:58:07          Downloads                                                                          
+d-r--- 21/08/2026 17:02:02          Documents                                                                                                                                                 
 d-r--- 13/02/2025 09:55:53          Favorites                                                                          
 d--hs- 14/10/2026 08:27:42          IntelGraphicsProfiles                                                              
 d-r--- 13/02/2025 09:55:53          Links                                                                              
-d--hsl 13/02/2025 09:55:51          Menu Iniciar                                                                       
-d--hsl 13/02/2025 09:55:51          Meus Documentos                                                                    
-d----- 12/05/2025 10:12:15          miguel                                                                             
+d--hsl 13/02/2025 09:55:51          Menu Iniciar                                                                                                                                                             
 d----- 27/07/2026 17:34:28          Mini_courso                                                                        
 d--hsl 13/02/2025 09:55:51          Modelos                                                                            
 d-r--- 13/02/2025 09:55:53          Music                                                                              
@@ -58,6 +52,6 @@ d-r--- 15/02/2025 02:05:56          Videos
 -a-hs- 13/02/2025 09:55:51 524288   NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001...
 -a-hs- 13/02/2025 09:55:51 524288   NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002...
 ---hs- 13/02/2025 09:55:51 20       ntuser.ini                                                                         
--a---- 27/07/2026 20:11:28 243      Untitled-1.ipynb                                                                   
+                                                               
 
 
